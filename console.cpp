@@ -1,5 +1,5 @@
-#include "../ConsoleApplication1/ConsoleApplication1/cons_color.cpp"
-#include "../ConsoleApplication1/ConsoleApplication1/cons_size.cpp"
+#include "cons_color.cpp"
+#include "cons_size.cpp"
 
 static void console()
 {
